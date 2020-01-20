@@ -139,6 +139,11 @@ void PaintWidget::drawCircle()
 
 }
 
+void PaintWidget::changeAreaValue(double newArea)
+{
+
+}
+
 // Slot that determines whether the shape will be filled or not depending on the state of the check box.
 void PaintWidget::drawFilled(int value)
 {
