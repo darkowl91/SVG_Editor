@@ -1,6 +1,6 @@
 #include <QLayout>
 #include "paintwidget.h"
-#include <QtGui/QSplitter>
+#include <QSplitter>
 
 
 // Constructor that builds the main the widget with no parent and adds the components to it in the appropriate layouts.
