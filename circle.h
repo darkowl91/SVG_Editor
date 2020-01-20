@@ -29,7 +29,7 @@ public:
 
 private:
     // The PI constant used to calculate the area of any circle.
-    double static const PI = 3.1415926535;
+    double const PI = 3.1415926535;
 
     // The radius of a circle.
     double radius;
