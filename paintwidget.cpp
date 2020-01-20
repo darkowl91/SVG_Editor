@@ -1,6 +1,6 @@
 #include <QLayout>
 #include "paintwidget.h"
-#include <QtGui/QSplitter>
+#include <QSplitter>
 
 
 // Constructor that builds the main the widget with no parent and adds the components to it in the appropriate layouts.
@@ -136,6 +136,11 @@ void PaintWidget::drawCircle()
     // Sets the type of the shape that will be drawn to "3" which means a circle.
     this->paper->setType(3);
 
+
+}
+
+void PaintWidget::changeAreaValue(double newArea)
+{
 
 }
 

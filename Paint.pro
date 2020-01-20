@@ -3,7 +3,7 @@
 # #####################################################################
 QT += svg
 TEMPLATE = app
-TARGET = 
+TARGET = Paint
 DEPENDPATH += .
 INCLUDEPATH += .
 

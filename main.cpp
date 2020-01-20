@@ -1,6 +1,6 @@
-#include <QtGui/QApplication>
+#include <QApplication>
 #include "square.h"
-#include <QtGui/QPushButton>
+#include <QPushButton>
 #include "paintwidget.h"
 
 // Main method where the program starts.
